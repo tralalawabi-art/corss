@@ -10,7 +10,7 @@ app.use(cors()); // Allow All Origins
 // ---------------- CONFIGURATION ----------------
 // GANTI INI DENGAN LINK GITHUB RAW MILIKMU YANG ISINYA LIST SOCKS5
 // Format isi file github harus: socks5://ip:port (satu per baris)
-const GITHUB_PROXY_URL = 'https://raw.githubusercontent.com/USERNAME_KAMU/REPO_KAMU/main/proxies.txt';
+const GITHUB_PROXY_URL = 'https://raw.githubusercontent.com/proxifly/free-proxy-list/refs/heads/main/proxies/protocols/socks5/data.txt';
 // -----------------------------------------------
 
 
